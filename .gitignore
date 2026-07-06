@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config
+local.properties
+
+# Signing — never commit
+keystore.properties
+*.jks
+*.keystore
+.kspass
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Env / secrets
+.env
+*.p8
+*.json.key
+play-service-account*.json
