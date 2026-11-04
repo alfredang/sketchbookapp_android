@@ -4,6 +4,9 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)
 ![License](https://img.shields.io/badge/license-Proprietary-lightgrey)
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.sketchbookstudioapp)
+
+**[Get it on Google Play →](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.sketchbookstudioapp)**
 
 A natural drawing studio for Android tablets and phones — the native Android
 counterpart of the **Sketchbook Studio** iPad app. Sketch with pressure-sensitive
@@ -89,6 +92,7 @@ are intentionally gitignored — supply your own for release builds.
 
 ## Related
 
+- Android version: **Sketchbook Studio** on [Google Play](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.sketchbookstudioapp) (`com.tertiaryinfotech.sketchbookstudioapp`).
 - iOS/iPadOS version: **Sketchbook Studio** on the App Store
   (`com.tertiaryinfotech.sketchbookapp`).
 
